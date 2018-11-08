@@ -29,7 +29,7 @@ elHotel2.textContent = details2;
 var details3 = SheratonHotel.name + ' rooms: ';
 details3 += SheratonHotel.checkAvailability();
 var elHotel3 = document.getElementById('hotel3');
-elHotel2.textContent = details2;
+elHotel3.textContent = details3;
 
 
 /* 
